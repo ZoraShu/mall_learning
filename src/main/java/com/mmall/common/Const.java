@@ -1,7 +1,7 @@
 package com.mmall.common;
 
 /**
- * Created by xiaobinxu on 8/28/17.
+ * Created by yueshu on 8/28/17.
  */
 public class Const {
     public static final String CURRENT_USER = "currentUser";

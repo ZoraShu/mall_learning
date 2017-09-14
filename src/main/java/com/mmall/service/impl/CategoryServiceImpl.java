@@ -18,7 +18,7 @@ import java.util.Set;
 import java.util.concurrent.Callable;
 
 /**
- * Created by xiaobinxu on 8/29/17.
+ * Created by yueshu on 8/29/17.
  */
 @Service("iCategoryService")
 public class CategoryServiceImpl implements ICategoryService {
